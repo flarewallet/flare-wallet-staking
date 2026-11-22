@@ -1,6 +1,6 @@
 ![Flare Wallet](assets/banner-article.png)
 
-# Flare Wallet Staking
+# Flare Wallet Staking.
 
 Flare Wallet staking and FXRP guides: stake FLR, delegate to FTSO providers, wrap WFLR, claim rewards.
 
